@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @begrudgingly
+- 👋 Hi, I’m @begrudgingly/fatin.
 - 👀 I’m interested in web development and UI/UX design.
 - 🌱 I’m currently learning React.js. :)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: fatinnad.mnazri@gmail.com
 
 <!---
